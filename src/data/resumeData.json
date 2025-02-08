@@ -1,0 +1,106 @@
+{
+  "professionalFigure": "Junior Full-Stack Developer",
+  "contacts": {
+    "name": "Alexandru Dumitras",
+    "email": "dumitrasalexandru26@gmail.com",
+    "residence": "Trieste - Italia",
+    "phoneNumber": "+393289079939",
+    "websites": { "github": "https://github.com/dumialex32" }
+  },
+  "summary": "Junior Full-Stack Developer con esperienza nello sviluppo di applicazioni web dinamiche e siti statici. Specializzato nel MERN Stack (MongoDB, Express, React, Node.js).",
+  "education": [
+    {
+      "title": "Tecnico in amministrazione pubblica",
+      "degreeLevel": "Diploma di maturità",
+      "institutionName": "Scuola Superiore a indirizzo Economico",
+      "location": "Romania",
+      "startYear": "2006",
+      "endYear": "2010",
+      "skillsAcquired": "Competenze in amministrazione pubblica"
+    },
+    {
+      "title": "React Native - The Practical Guide",
+
+      "institutionName": "Udemy - Academind",
+      "location": "Online",
+      "startYear": "2025",
+      "endYear": "",
+      "skillsAcquired": [
+        "Competenze in React Native per lo sviluppo di applicazioni mobili cross-platform"
+      ]
+    },
+    {
+      "title": "Understanding TypeScript",
+      "institutionName": "Udemy - Maximilian Schwarzmuller",
+      "location": "Online",
+      "startYear": "2024",
+      "endYear": "2025",
+      "skillsAcquired": [
+        "Competenze in TypeScript, con interfacce e supporto ES6, React.js e Node.js/Express"
+      ]
+    },
+    {
+      "title": "Node.js, Express, MongoDB & More",
+      "institutionName": "Udemy - Jonas Schmedtmann",
+      "location": "Online",
+      "startYear": "2024",
+      "endYear": "2025",
+      "skillsAcquired": "Competenze in Node.js, Express e Mongoose"
+    },
+    {
+      "title": "The Ultimate React Course",
+      "institutionName": "Udemy - Jonas Schmedtmann",
+      "location": "Online",
+      "startYear": "2023",
+      "endYear": "2024",
+      "skillsAcquired": "Competenze in React.js, e styling con Tailwind e Styled Components"
+    },
+    {
+      "title": "Advanced CSS and Sass",
+      "institutionName": "Udemy - Jonas Schmedtmann",
+      "location": "Online",
+      "startYear": "2023",
+      "endYear": "2024",
+      "skillsAcquired": "Competenze in CSS moderno e Sass"
+    },
+    {
+      "title": "The Complete JavaScript Course",
+      "degreeLevel": "",
+      "institutionName": "Udemy - Jonas Schmedtmann",
+      "location": "Online",
+      "startYear": "2023",
+      "endYear": "2024",
+      "skillsAcquired": "Competenze in JavaScript, con focus sui concetti fondamentali e avanzati di ES6+"
+    }
+  ],
+  "skills": [
+    "JavaScript",
+    "TypeScript",
+    "HTML/CSS",
+    "React",
+    "Node.js",
+    "Express",
+    "MongoDB",
+    "GIT",
+    "GitHub",
+    "Agile"
+  ],
+  "workExperiences": [
+    {
+      "jobPosition": "Front-End Developer",
+      "employerName": "Progetti Freelance",
+      "startYear": "2023",
+      "endYear": "",
+      "location": "Remote working",
+      "description": "Ho progettato e sviluppato siti web statici per clienti privati, creando design moderni e responsive con HTML5, CSS3, JavaScript e framework di styling come Bootstrap. Ho garantito un'esperienza utente ottimale su desktop e mobile, collaborando con i clienti per definire i requisiti e consegnare progetti personalizzati nei tempi stabiliti. Inoltre, ho implementato pipeline CI/CD con GitHub Actions per automatizzare aggiornamenti e modifiche, garantendo rilasci senza interruzioni in base alle esigenze dei clienti."
+    },
+    {
+      "jobPosition": "React Developer / Full-Stack Developer",
+      "employerName": "Progetti individuali e di collaborazione",
+      "startYear": "2023",
+      "endYear": "",
+      "location": "Remote working",
+      "description": "Sviluppato applicazioni web complete con il MERN Stack (MongoDB, Express, React, Node.js) e altre tecnologie moderne per garantire soluzioni full-stack robuste. Progetti principali includono:\nNature's Hideaway: Applicazione per la gestione alberghiera sviluppata con React, Supabase (backend-as-a-service), e styled-components. Funzionalità principali includono autenticazione utenti, gestione prenotazioni, e dashboard analitico con grafici.\nApplicazione di Visualizzazione Meteo: Sviluppata con React, TypeScript, e Tailwind CSS, utilizzando un'API pubblica per le previsioni meteo in tempo reale. Le funzionalità principali includono la ricerca delle città, visualizzazione dei dati meteo (temperatura, condizioni, umidità, velocità del vento) per i prossimi 7 giorni, gestione delle città preferite, e un grafico per l'andamento delle temperature nelle 24 ore successive.\nSupplements Shop: Piattaforma eCommerce basata sul MERN Stack, con funzionalità come carrello della spesa, pagamenti PayPal, autenticazione JWT e area amministrativa. Backend gestito con Express e MongoDB (Mongoose ODM), ottimizzato per scalabilità e sicurezza.\nAnalizzatore Replay Dota 2: Applicazione sviluppata con React, TypeScript, Tailwind CSS, e Node.js per analizzare file di replay .dem di Dota 2, utilizzando Skadistats per il parsing. I dati vengono salvati in un database per garantire la persistenza delle statistiche, risolvendo la mancanza di supporto nelle API di Steam per le partite in lobby private. Il frontend permette la consultazione semplice delle informazioni di gioco per le partite di lobby."
+    }
+  ]
+}

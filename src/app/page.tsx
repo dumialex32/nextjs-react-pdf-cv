@@ -4,7 +4,7 @@
 
 import { PDFViewer, PDFDownloadLink } from "@react-pdf/renderer";
 import { useState } from "react";
-import Resume from "@/components/Resume";
+import Resume from "@/components/Resume/Resume";
 
 export default function Home() {
   const [isExpanded, setIsExpanded] = useState(false);

@@ -1,4 +1,5 @@
-export interface Resume {
+export interface ResumeData {
+  professionalFigure: string;
   contacts: {
     name: string;
     email: string;
@@ -9,16 +10,14 @@ export interface Resume {
   summary: string;
   education: {
     title: string;
-    degreeLevel: string;
+    degreeLevel?: string;
     institutionName: string;
     location?: string;
     startYear?: string;
     endYear?: string;
-    skillsAcquired: string;
+    skillsAcquired: string | string[];
   }[];
-  skills: {
-    name: string;
-  }[];
+  skills: string[];
   workExperiences: {
     jobPosition: string;
     employerName: string;
